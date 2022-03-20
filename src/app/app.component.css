@@ -183,7 +183,7 @@ header > h2 {
 
 
 .grid-container > div:nth-child(5) {
-    background-color: #FFE4E1;
+    background-color: 		#FFFACD;
     height: 125vh;
     display: flex;
     justify-content: center;
